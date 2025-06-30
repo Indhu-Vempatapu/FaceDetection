@@ -1,5 +1,0 @@
-opencv-python
-gradio
-matplotlib
-Pillow
-numpy
